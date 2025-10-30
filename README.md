@@ -35,7 +35,7 @@
 
 ## 🎯 Overview
 
-**Vibe Commerce** is a production-ready, full-stack e-commerce application featuring a beautiful React frontend, robust Node.js/Express backend, and MongoDB database. Built with modern best practices, comprehensive error handling, and a focus on user experience.
+**Vibe Commerce** is a production-ready, full-stack e-commerce application featuring a beautiful React frontend, robust Node.js/Express backend, and MongoDB database. Built with modern best practices, this project is perfect for learning, demos, or as a foundation for your own e-commerce platform.
 
 ### Key Highlights
 
@@ -122,7 +122,7 @@
 
 ## 📁 Project Structure
 
-```
+```text
 Internship_Project_Full_Stack/
 ├── backend/
 │   ├── config/
@@ -918,10 +918,11 @@ Made with ❤️ for internship screening
 [Report Bug](https://github.com/yourusername/vibe-commerce/issues) · [Request Feature](https://github.com/yourusername/vibe-commerce/issues)
 
 </div>
-#   N e x o r a _ I n t e r n s h i p _ T a s k 
- 
- #   N e x o r a _ I n t e r n s h i p _ T a s k 
- 
- #   N e x o r a _ I n t e r n s h i p _ T a s k _ f u l l S t a c k 
- 
- 
+
+---
+
+# Nexora_Internship_Task
+
+# Nexora_Internship_Task
+
+# Nexora_Internship_Task_fullStack
