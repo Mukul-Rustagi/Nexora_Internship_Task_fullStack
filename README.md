@@ -918,7 +918,10 @@ Made with ❤️ for internship screening
 [Report Bug](https://github.com/yourusername/vibe-commerce/issues) · [Request Feature](https://github.com/yourusername/vibe-commerce/issues)
 
 </div>
-#   N e x o r a _ I n t e r n s h i p _ T a s k  
- #   N e x o r a _ I n t e r n s h i p _ T a s k  
- #   N e x o r a _ I n t e r n s h i p _ T a s k _ f u l l S t a c k  
+#   N e x o r a _ I n t e r n s h i p _ T a s k 
+ 
+ #   N e x o r a _ I n t e r n s h i p _ T a s k 
+ 
+ #   N e x o r a _ I n t e r n s h i p _ T a s k _ f u l l S t a c k 
+ 
  
